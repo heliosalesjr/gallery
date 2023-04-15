@@ -3,6 +3,7 @@ import styles from './MainPage.module.scss'
 import Header from '../components/Header'
 import Menu from '../components/Menu'
 import bannerImage from '../../public/img/banner.png'
+import Gallery from '../components/Gallery'
 
 const MainPage = () => {
   return (
@@ -17,9 +18,11 @@ const MainPage = () => {
                     <img src={bannerImage} alt='main image' />
                 </div>
             </section>
-            
-
         </main>
+
+        <div>
+            <Gallery />
+        </div>
         
     </>
   )
