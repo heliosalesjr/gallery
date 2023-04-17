@@ -1,0 +1,157 @@
+[
+    {
+      "titulo": "Box JellyFish",
+      "creditos": "Encyclopedia Britannica",
+      "imagem": "",
+      "id": "1",
+      "tag": "1"
+    },
+
+    {
+        "titulo": "Pink Comb Jelly",
+        "creditos": "Florida Adventurer",
+        "imagem": "",
+        "id": "2",
+        "tag": "2"
+    },
+
+    {
+        "titulo": "Cauliflower Jellyfish",
+        "creditos": "@morganbennettsmith",
+        "imagem": "",
+        "id": "3",
+        "tag": "3"
+    },
+
+    {
+        "titulo": "Lion’s Mane Jellyfish",
+        "creditos": "Oceana Canada",
+        "imagem": "",
+        "id": "4",
+        "tag": "4"
+      },
+
+      {
+        "titulo": "Portuguese Man-of-War",
+        "creditos": "Encyclopedia Britannica",
+        "imagem": "",
+        "id": "5",
+        "tag": "1"
+      },
+
+      {
+        "titulo": "Flower Hat Jellyfish",
+        "creditos": "Monterey Bay Aquarium",
+        "imagem": "",
+        "id": "6",
+        "tag": "2"
+      },
+    
+      {
+        "titulo": "Mauve Stingers",
+        "creditos": "Damsea",
+        "imagem": "",
+        "id": "7",
+        "tag": "3"
+      },
+
+      {
+        "titulo": "Atolla Jellyfish",
+        "creditos": "Unknown",
+        "imagem": "",
+        "id": "8",
+        "tag": "4"
+      },
+
+      {
+        "titulo": "Moon Jelly",
+        "creditos": "Wikipedia",
+        "imagem": "",
+        "id": "9",
+        "tag": "1"
+      },
+
+      {
+        "titulo": "Nettle Sea",
+        "creditos": "Getty Images",
+        "imagem": "",
+        "id": "10",
+        "tag": "2"
+      },
+
+      {
+        "titulo": "Black Sea Nettle",
+        "creditos": "Richard Herrmann",
+        "imagem": "",
+        "id": "11",
+        "tag": "3"
+      },
+
+      {
+        "titulo": "Mushroom Cap Jelly",
+        "creditos": "Virginia Fishes",
+        "imagem": "",
+        "id": "12",
+        "tag": "4"
+      },
+
+      {
+        "titulo": "Blue Buttons Jellyfish",
+        "creditos": "Wikipedia Commons",
+        "imagem": "",
+        "id": "13",
+        "tag": "1"
+      },
+
+      {
+        "titulo": "By-the-Wind Sailor",
+        "creditos": "Wikipedia Commons",
+        "imagem": "",
+        "id": "14",
+        "tag": "2"
+      },
+
+      {
+        "titulo": "Cannonball Jelly",
+        "creditos": "Exotic Aquaculture",
+        "imagem": "",
+        "id": "15",
+        "tag": "3"
+      },
+
+      {
+        "titulo": "Beroe Cucumis",
+        "creditos": "Alexander Semenov",
+        "imagem": "",
+        "id": "16",
+        "tag": "4"
+      },
+      {
+        "titulo": "Crystal Jellyfish",
+        "creditos": "Monterey Bay Aquarium",
+        "imagem": "",
+        "id": "17",
+        "tag": "1"
+      },
+      {
+        "titulo": "Pink Meanie Jellyfish",
+        "creditos": "Word Woman Blog",
+        "imagem": "",
+        "id": "18",
+        "tag": "2"
+      },
+      {
+        "titulo": "Bloodybelly Comb Jellyfish",
+        "creditos": "MBARI",
+        "imagem": "",
+        "id": "19",
+        "tag": "3"
+      },
+      {
+        "titulo": "Crossota Norvedica",
+        "creditos": "Wikipedia Commons",
+        "imagem": "",
+        "id": "20",
+        "tag": "4"
+      }
+]
