@@ -2,7 +2,7 @@
     {
       "titulo": "Box JellyFish",
       "creditos": "Encyclopedia Britannica",
-      "imagem": "",
+      "imagem": "img/imgMain/1.webp",
       "id": "1",
       "tag": "1"
     },
@@ -10,7 +10,7 @@
     {
         "titulo": "Pink Comb Jelly",
         "creditos": "Florida Adventurer",
-        "imagem": "",
+        "imagem": "img/imgMain/2.jpg",
         "id": "2",
         "tag": "2"
     },
@@ -18,7 +18,7 @@
     {
         "titulo": "Cauliflower Jellyfish",
         "creditos": "@morganbennettsmith",
-        "imagem": "",
+        "imagem": "img/imgMain/3.webp",
         "id": "3",
         "tag": "3"
     },
@@ -26,7 +26,7 @@
     {
         "titulo": "Lion’s Mane Jellyfish",
         "creditos": "Oceana Canada",
-        "imagem": "",
+        "imagem": "img/imgMain/4.jpg",
         "id": "4",
         "tag": "4"
       },
@@ -34,7 +34,7 @@
       {
         "titulo": "Portuguese Man-of-War",
         "creditos": "Encyclopedia Britannica",
-        "imagem": "",
+        "imagem": "img/imgMain/5.webp",
         "id": "5",
         "tag": "1"
       },
@@ -42,7 +42,7 @@
       {
         "titulo": "Flower Hat Jellyfish",
         "creditos": "Monterey Bay Aquarium",
-        "imagem": "",
+        "imagem": "img/imgMain/6.jpg",
         "id": "6",
         "tag": "2"
       },
@@ -50,7 +50,7 @@
       {
         "titulo": "Mauve Stingers",
         "creditos": "Damsea",
-        "imagem": "",
+        "imagem": "img/imgMain/7.webp",
         "id": "7",
         "tag": "3"
       },
@@ -58,7 +58,7 @@
       {
         "titulo": "Atolla Jellyfish",
         "creditos": "Unknown",
-        "imagem": "",
+        "imagem": "img/imgMain/8.jpg",
         "id": "8",
         "tag": "4"
       },
@@ -66,7 +66,7 @@
       {
         "titulo": "Moon Jelly",
         "creditos": "Wikipedia",
-        "imagem": "",
+        "imagem": "img/imgMain/9.jpg",
         "id": "9",
         "tag": "1"
       },
@@ -74,7 +74,7 @@
       {
         "titulo": "Nettle Sea",
         "creditos": "Getty Images",
-        "imagem": "",
+        "imagem": "img/imgMain/10.jpg",
         "id": "10",
         "tag": "2"
       },
@@ -82,7 +82,7 @@
       {
         "titulo": "Black Sea Nettle",
         "creditos": "Richard Herrmann",
-        "imagem": "",
+        "imagem": "img/imgMain/11.jpg",
         "id": "11",
         "tag": "3"
       },
@@ -90,7 +90,7 @@
       {
         "titulo": "Mushroom Cap Jelly",
         "creditos": "Virginia Fishes",
-        "imagem": "",
+        "imagem": "img/imgMain/12.jpg",
         "id": "12",
         "tag": "4"
       },
@@ -98,7 +98,7 @@
       {
         "titulo": "Blue Buttons Jellyfish",
         "creditos": "Wikipedia Commons",
-        "imagem": "",
+        "imagem": "img/imgMain/13.jpg",
         "id": "13",
         "tag": "1"
       },
@@ -106,7 +106,7 @@
       {
         "titulo": "By-the-Wind Sailor",
         "creditos": "Wikipedia Commons",
-        "imagem": "",
+        "imagem": "img/imgMain/14.jpg",
         "id": "14",
         "tag": "2"
       },
@@ -114,7 +114,7 @@
       {
         "titulo": "Cannonball Jelly",
         "creditos": "Exotic Aquaculture",
-        "imagem": "",
+        "imagem": "img/imgMain/15.jpg",
         "id": "15",
         "tag": "3"
       },
@@ -122,35 +122,35 @@
       {
         "titulo": "Beroe Cucumis",
         "creditos": "Alexander Semenov",
-        "imagem": "",
+        "imagem": "img/imgMain/16.jpg",
         "id": "16",
         "tag": "4"
       },
       {
         "titulo": "Crystal Jellyfish",
         "creditos": "Monterey Bay Aquarium",
-        "imagem": "",
+        "imagem": "img/imgMain/17.webp",
         "id": "17",
         "tag": "1"
       },
       {
         "titulo": "Pink Meanie Jellyfish",
         "creditos": "Word Woman Blog",
-        "imagem": "",
+        "imagem": "img/imgMain/18.jpeg",
         "id": "18",
         "tag": "2"
       },
       {
         "titulo": "Bloodybelly Comb Jellyfish",
         "creditos": "MBARI",
-        "imagem": "",
+        "imagem": "img/imgMain/19.webp",
         "id": "19",
         "tag": "3"
       },
       {
         "titulo": "Crossota Norvedica",
         "creditos": "Wikipedia Commons",
-        "imagem": "",
+        "imagem": "img/imgMain/20.jpg",
         "id": "20",
         "tag": "4"
       }
