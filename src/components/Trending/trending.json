@@ -1,0 +1,27 @@
+[
+    {
+      "path": "img/imgTrending/trending1.jpg",
+      "alt": "jellyboom",
+      "id": 1
+    },
+    {
+      "path": "img/imgTrending/trending2.jpg",
+      "alt": "jellyboom",
+      "id": 2
+    },
+    {
+      "path": "img/imgTrending/trending3.jpg",
+      "alt": "jellyboom",
+      "id": 3
+    },
+    {
+      "path": "img/imgTrending/trending4.jpg",
+      "alt": "jellyboom",
+      "id": 4
+    },
+    {
+      "path": "img/imgTrending/trending5.jpg",
+      "alt": "jellyboom",
+      "id": 5
+    }
+  ]

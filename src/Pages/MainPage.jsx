@@ -4,6 +4,8 @@ import Header from '../components/Header'
 import Menu from '../components/Menu'
 import bannerImage from '../../public/img/Banner.png'
 import Gallery from '../components/Gallery'
+import Footer from '../components/Footer'
+import Trending from '../components/Trending'
 
 const MainPage = () => {
   return (
@@ -18,12 +20,15 @@ const MainPage = () => {
                     <img src={bannerImage} alt='main image' />
                 </div>
             </section>
-        </main>
-
-        <div>
-            <Gallery />
-        </div>
         
+
+            <div className={styles.gallery}>
+                <Gallery />
+                <Trending />
+                
+            </div>
+        </main>
+       <Footer /> 
     </>
   )
 }

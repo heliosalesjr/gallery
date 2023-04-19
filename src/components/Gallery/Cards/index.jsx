@@ -26,5 +26,5 @@ export default function Cards({itens, styles}) {
         );
       })}
     </ul>
-  )
+  );
 }
